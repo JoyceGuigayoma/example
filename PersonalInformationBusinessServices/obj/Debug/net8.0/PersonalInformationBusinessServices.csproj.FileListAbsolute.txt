@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\InformationModel\PersonalInformationBusinessServices\bin\Debug\net8.0\PersonalInformationBusinessServices.deps.json
+C:\Users\User\source\repos\InformationModel\PersonalInformationBusinessServices\bin\Debug\net8.0\PersonalInformationBusinessServices.dll
+C:\Users\User\source\repos\InformationModel\PersonalInformationBusinessServices\bin\Debug\net8.0\PersonalInformationBusinessServices.pdb
+C:\Users\User\source\repos\InformationModel\PersonalInformationBusinessServices\bin\Debug\net8.0\PersonalInformationDataServices.dll
+C:\Users\User\source\repos\InformationModel\PersonalInformationBusinessServices\bin\Debug\net8.0\PersonalInformationModel.dll
+C:\Users\User\source\repos\InformationModel\PersonalInformationBusinessServices\bin\Debug\net8.0\PersonalInformationDataServices.pdb
+C:\Users\User\source\repos\InformationModel\PersonalInformationBusinessServices\bin\Debug\net8.0\PersonalInformationModel.pdb
+C:\Users\User\source\repos\InformationModel\PersonalInformationBusinessServices\obj\Debug\net8.0\PersonalInformationBusinessServices.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\InformationModel\PersonalInformationBusinessServices\obj\Debug\net8.0\PersonalInformationBusinessServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\InformationModel\PersonalInformationBusinessServices\obj\Debug\net8.0\PersonalInformationBusinessServices.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\InformationModel\PersonalInformationBusinessServices\obj\Debug\net8.0\PersonalInformationBusinessServices.AssemblyInfo.cs
+C:\Users\User\source\repos\InformationModel\PersonalInformationBusinessServices\obj\Debug\net8.0\PersonalInformationBusinessServices.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\InformationModel\PersonalInformationBusinessServices\obj\Debug\net8.0\Personal.5F1763CC.Up2Date
+C:\Users\User\source\repos\InformationModel\PersonalInformationBusinessServices\obj\Debug\net8.0\PersonalInformationBusinessServices.dll
+C:\Users\User\source\repos\InformationModel\PersonalInformationBusinessServices\obj\Debug\net8.0\refint\PersonalInformationBusinessServices.dll
+C:\Users\User\source\repos\InformationModel\PersonalInformationBusinessServices\obj\Debug\net8.0\PersonalInformationBusinessServices.pdb
+C:\Users\User\source\repos\InformationModel\PersonalInformationBusinessServices\obj\Debug\net8.0\ref\PersonalInformationBusinessServices.dll
