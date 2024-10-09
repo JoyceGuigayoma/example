@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\InformationModel\PersonalInformationDataServices\bin\Debug\net8.0\PersonalInformationDataServices.deps.json
+C:\Users\User\source\repos\InformationModel\PersonalInformationDataServices\bin\Debug\net8.0\PersonalInformationDataServices.dll
+C:\Users\User\source\repos\InformationModel\PersonalInformationDataServices\bin\Debug\net8.0\PersonalInformationDataServices.pdb
+C:\Users\User\source\repos\InformationModel\PersonalInformationDataServices\bin\Debug\net8.0\PersonalInformationModel.dll
+C:\Users\User\source\repos\InformationModel\PersonalInformationDataServices\bin\Debug\net8.0\PersonalInformationModel.pdb
+C:\Users\User\source\repos\InformationModel\PersonalInformationDataServices\obj\Debug\net8.0\PersonalInformationDataServices.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\InformationModel\PersonalInformationDataServices\obj\Debug\net8.0\PersonalInformationDataServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\InformationModel\PersonalInformationDataServices\obj\Debug\net8.0\PersonalInformationDataServices.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\InformationModel\PersonalInformationDataServices\obj\Debug\net8.0\PersonalInformationDataServices.AssemblyInfo.cs
+C:\Users\User\source\repos\InformationModel\PersonalInformationDataServices\obj\Debug\net8.0\PersonalInformationDataServices.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\InformationModel\PersonalInformationDataServices\obj\Debug\net8.0\Personal.D92AA08E.Up2Date
+C:\Users\User\source\repos\InformationModel\PersonalInformationDataServices\obj\Debug\net8.0\PersonalInformationDataServices.dll
+C:\Users\User\source\repos\InformationModel\PersonalInformationDataServices\obj\Debug\net8.0\refint\PersonalInformationDataServices.dll
+C:\Users\User\source\repos\InformationModel\PersonalInformationDataServices\obj\Debug\net8.0\PersonalInformationDataServices.pdb
+C:\Users\User\source\repos\InformationModel\PersonalInformationDataServices\obj\Debug\net8.0\ref\PersonalInformationDataServices.dll

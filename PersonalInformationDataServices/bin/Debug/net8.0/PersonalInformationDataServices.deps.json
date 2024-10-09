@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PersonalInformationDataServices/1.0.0": {
+        "dependencies": {
+          "PersonalInformationModel": "1.0.0"
+        },
+        "runtime": {
+          "PersonalInformationDataServices.dll": {}
+        }
+      },
+      "PersonalInformationModel/1.0.0": {
+        "runtime": {
+          "PersonalInformationModel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PersonalInformationDataServices/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PersonalInformationModel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
